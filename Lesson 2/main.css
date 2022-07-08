@@ -1,0 +1,110 @@
+body {
+    background-color: #000000;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    list-style: none;
+    background-color: #2b2a2a;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: rgba(255, 251, 251, 0.758);
+    text-decoration: none;
+    line-height: 50px;
+    padding: 0 25px;
+    transition: .3s all ease;
+    display: block;
+}
+
+a:hover {
+    background-color: #242222;
+}
+
+li {
+    float: left;
+}
+
+.banner {
+    background-color: #16b1c4;
+    padding-left: 100px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: lighter;
+    margin: 0;
+    padding: 0;
+}
+
+.link {
+    color: #ffffff85;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    line-height: 65px;
+    margin: 0;
+    padding: 0;
+}
+
+.advantage {
+    background-color: #1d1822;
+    border-right: 220px solid #bd3084;
+    padding-left: 100px;
+}
+
+h2 {
+    color: #9282a0;
+    font-size: 30px;
+    line-height: 220px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    margin: 0;
+    padding: 0;
+}
+
+.image img {
+    vertical-align: bottom;
+}
+
+.content {
+    background-color: #e6e6e6;
+    padding-left: 100px;
+}
+
+.text {
+    color: #088ca5;
+    font-size: 30px;
+    line-height: 44px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: auto;
+}
+
+p {
+    padding: 100px;
+    margin: 0;
+    padding: 0;
+    color: #515151;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: auto;
+}
